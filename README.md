@@ -34,4 +34,9 @@ InCare is an innovative mobile application designed to revolutionize healthcare 
    - Automated reminders for appointment schedules, medication intake, and health check-ups.
    - Push notifications to alert users about new health insights, appointment confirmations, and follow-up tasks.
 
-###Here are some of the screenshots of the Figma Design.
+### Here are some of the screenshots of the Figma Design.
+
+   ![Screenshot 2024-10-05 211226](https://github.com/user-attachments/assets/d2b2eef9-a02d-4860-aac3-f2d339691df5)
+
+
+    ![Screenshot 2024-10-05 211145](https://github.com/user-attachments/assets/a049f974-1596-4889-86dc-4fc109593499)
