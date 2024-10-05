@@ -36,11 +36,14 @@ InCare is an innovative mobile application designed to revolutionize healthcare 
 
 ### Here are some of the screenshots of the Figma Design.
 
+![Screenshot 2024-10-05 211226](https://github.com/user-attachments/assets/3a0be333-8fef-4e77-8031-c07dc26d853d)
+
    ![Screenshot 2024-10-05 211226](https://github.com/user-attachments/assets/d2b2eef9-a02d-4860-aac3-f2d339691df5)
 
-     ![Screenshot 2024-10-05 211243](https://github.com/user-attachments/assets/c0560878-4984-4e60-982e-7f14c3dd7f10)
+   ![Screenshot 2024-10-05 211243](https://github.com/user-attachments/assets/01d1855a-5c62-45c0-ac6d-07e3c050e80d)
 
-    ![Screenshot 2024-10-05 211305](https://github.com/user-attachments/assets/18b4f633-a401-4934-922e-e5d8c2a92f9d)
+   ![Screenshot 2024-10-05 211305](https://github.com/user-attachments/assets/81cfb95d-687c-4053-b670-c08bbe5e0102)
 
 
-    ![Screenshot 2024-10-05 211145](https://github.com/user-attachments/assets/a049f974-1596-4889-86dc-4fc109593499)
+
+
