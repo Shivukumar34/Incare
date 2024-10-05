@@ -1,4 +1,4 @@
-# InCare - Your Personal Health Assistant [URL](https://www.figma.com/design/o9pjtikcUORUmlhTR6Hqkw/The-Nerd-Herd?node-id=0-1&t=VlqFiaF10dsZxljZ-1)
+# InCare - Your Personal Health Assistant [(Link)](https://www.figma.com/design/o9pjtikcUORUmlhTR6Hqkw/The-Nerd-Herd?node-id=0-1&t=VlqFiaF10dsZxljZ-1)
 
 
 InCare is an innovative mobile application designed to revolutionize healthcare by connecting patients with doctors and providing personalized health advice based on medical reports and health tracking. This app allows users to book appointments with doctors, track their health progress, and receive tailored diet and yoga suggestions to aid in their recovery.
