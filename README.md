@@ -38,5 +38,9 @@ InCare is an innovative mobile application designed to revolutionize healthcare 
 
    ![Screenshot 2024-10-05 211226](https://github.com/user-attachments/assets/d2b2eef9-a02d-4860-aac3-f2d339691df5)
 
+     ![Screenshot 2024-10-05 211243](https://github.com/user-attachments/assets/c0560878-4984-4e60-982e-7f14c3dd7f10)
+
+    ![Screenshot 2024-10-05 211305](https://github.com/user-attachments/assets/18b4f633-a401-4934-922e-e5d8c2a92f9d)
+
 
     ![Screenshot 2024-10-05 211145](https://github.com/user-attachments/assets/a049f974-1596-4889-86dc-4fc109593499)
